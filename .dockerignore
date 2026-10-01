@@ -1,0 +1,17 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.ipynb
+.ipynb_checkpoints/
+relatorios/
+evidencias/
+locustfile.py
+locust_*.csv
+*.png
+README.md
+PASSO-A-PASSO.md
